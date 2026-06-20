@@ -23,6 +23,8 @@
 +🌍 Passion: tech for economic empowerment + education
 +🧠 Mindset: build → learn → iterate → impact
 
+```
+
 ---
 
 ## 💻 Tech Stack
@@ -83,7 +85,7 @@ Designed a real-world vehicle safety solution
 ---
 
 <p align="center"> <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="220"/> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/> </p> 
-```
+
 <!--
 **cryscode/cryscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
