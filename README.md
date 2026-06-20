@@ -51,11 +51,11 @@ Vehicle safety solution → SAGE National Competition
 
 ---
 
-## Skills
+## 💻 Tech Stack
 
-<!--<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,github" />
-</p>-->
+<p align="center">
+  <b>Languages</b>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-C97B72?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-8A6F68?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -64,6 +64,24 @@ Vehicle safety solution → SAGE National Competition
   <img src="https://img.shields.io/badge/HTML-C97B72?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-8A6F68?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
+<p align="center">
+  <b>Libraries & Frameworks</b>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-8A6F68?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-A67C73?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-B08B80?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>Tools</b>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-8A6F68?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-A67C73?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-B08B80?style=for-the-badge&logo=docker&logoColor=white"/>
+</p> 
 
 ---
 
