@@ -1,90 +1,77 @@
 <h1 align="center">Hi, I'm Crystal 👩🏾‍💻✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F78DA7&center=true&vCenter=true&width=500&lines=CS+%2B+Economics+@+Baylor;Building+Tech+for+Impact;Future+Fintech+%2F+Product+Girl;I+turn+ideas+into+real+projects" />
+  <em>Fintech · Product · Engineering · Data</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQq8Wc2R3a/giphy.gif" width="220"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=20&duration=3000&color=C97B72&center=true&vCenter=true&width=400&lines=I+build+things+that+matter;CS+%2B+Economics+@+Baylor;Turning+ideas+into+impact" />
 </p>
 
 ---
 
-## 💁🏾‍♀️ About Me
+## About
 
-```diff
-+ CS + Economics @ Baylor University
-+ Nigerian 🇳🇬 building globally impactful tech
-+ Interested in Fintech, ML, Product, Data
-+ I care about solving real problems — not just writing code
-+💻 First computer: shared family desktop (I basically claimed ownership 😭)
-+🌍 Passion: tech for economic empowerment + education
-+🧠 Mindset: build → learn → iterate → impact
+Computer Science & Economics student at Baylor University.  
+I build things, figure out why they matter, and keep improving them —  
+whether that's a data product, a financial tool, or a full-stack application.
 
-```
+- 🇳🇬 From Nigeria  
+- 💡 Interested in fintech, ML, product, and data  
+- 🧠 Focused on real-world impact through technology
+<p align="right">
+  <img src="YOUR_IMAGE_LINK" width="140" style="border-radius: 12px;" />
+</p> 
 
 ---
 
-## 💻 Tech Stack
+## Work
 
-<p>
+**EcoShield**  
+Climate monitoring web app → Global Semifinalist (Technovation)
+
+**ML Waste Classifier**  
+Machine learning model for sustainability-focused sorting  
+
+**Speed Limiter System**  
+Vehicle safety solution → SAGE National Competition  
+
+---
+
+## Skills
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Activity
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cryscode&show_icons=true&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryscode&theme=tokyonight&hide_border=true" /> </p>
-<img src="https://github.com/cryscode/cryscode/blob/output/github-contribution-grid-snake.svg" />
-
----
-
-## 🚀 Projects
-
-### 🌱 EcoShield
-Climate monitoring web app for environmental awareness  
-🏆 Global Semifinalist – Technovation Girls
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default&hide_border=true" />
+</p>
 
 ---
 
-### ♻️ ML Waste Classifier
-AI model to classify waste into recyclable categories  
-→ Built with Teachable Machine
+## Connect
 
+<p align="center">
+  <a href="https://crystaladike.vercel.app/">Portfolio</a> · 
+  <a href="https://linkedin.com/in/crystaladike">LinkedIn</a>
+</p>
 ---
+<p align="center">
+  <img src="YOUR_IMAGE_LINK" width="140" style="border-radius: 12px;" />
+</p>
 
-### 🚗 Speed Limiter System
-Designed a real-world vehicle safety solution  
-🏆 Best in Educational Category – SAGE Competition
-
----
-
-## 👑 Leadership
-
-- Vice President – Konigbagbe Outreach  
-- Raised **$5,000+** impacting 200+ children  
-- Led teams across education + sustainability initiatives  
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/crystaladike  
-- 🌐 Portfolio: https://crystaladike.vercel.app  
-
----
-
-## 🌸 Currently Learning
-- Data Structures & Algorithms
-- Machine Learning fundamentals
-- Building fintech products
-
----
-
-<p align="center"> <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="220"/> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/> </p> 
+<p align="center">
+  <a href="https://crystaladike.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-C97B72?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 <!--
 **cryscode/cryscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
