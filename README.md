@@ -1,20 +1,27 @@
-<h1 align="center">Hi 👋🏾, I'm Crystal</h1>
-<h3 align="center">CS + Economics @ Baylor | Building tech for impact 💡</h3>
+<h1 align="center">Hi, I'm Crystal 👩🏾‍💻✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F78DA7&center=true&vCenter=true&width=500&lines=CS+%2B+Economics+@+Baylor;Building+Tech+for+Impact;Future+Fintech+%2F+Product+Girl;I+turn+ideas+into+real+projects" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQq8Wc2R3a/giphy.gif" width="220"/>
 </p>
 
 ---
 
 ## 💁🏾‍♀️ About Me
 
-- 🎓 Computer Science + Economics @ **Baylor University**
-- 🌍 From **Nigeria 🇳🇬**
-- 💻 First tech I owned: *a family desktop I refused to log off from 😭*
-- 🔍 Interested in: **Fintech, Machine Learning, Product Management, Data**
-- 🧠 I love building things that solve *real problems*
-- ✨ Fun fact: I turn ideas into projects… then into impact
+```diff
++ CS + Economics @ Baylor University
++ Nigerian 🇳🇬 building globally impactful tech
++ Interested in Fintech, ML, Product, Data
++ I care about solving real problems — not just writing code
++💻 First computer: shared family desktop (I basically claimed ownership 😭)
++🌍 Passion: tech for economic empowerment + education
++🧠 Mindset: build → learn → iterate → impact
 
 ---
 
@@ -28,10 +35,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" /> </p>
+<img src="https://github.com/cryscode/cryscode/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
@@ -70,13 +75,15 @@ Designed a real-world vehicle safety solution
 
 ---
 
-## 💅 Just for Vibes
+## 🌸 Currently Learning
+- Data Structures & Algorithms
+- Machine Learning fundamentals
+- Building fintech products
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="250"/>
-</p>
+---
 
+<p align="center"> <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="220"/> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/> </p> 
+```
 <!--
 **cryscode/cryscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
