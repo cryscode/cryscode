@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="735" height="202" alt="cielo" src="https://github.com/user-attachments/assets/ff41a892-cb68-43df-9448-5e99d5b82184" />
+</p>
+
 <h1 align="center">Hi, I'm Crystal 👩🏾‍💻✨</h1>
 
 <p align="center">
@@ -39,6 +43,9 @@ whether that's a data product, a financial tool, or a full-stack application.
 ---
 
 ## Projects
+**Click the Baklava**  
+A discreet safety app disguised as a baklava-themed clicker game,<br> allowing users to send silent emergency alerts without drawing attention.<br>
+🏆 Hackathon award recipient
 
 **EcoShield**  
 Climate monitoring web app → Global Semifinalist (Technovation)
